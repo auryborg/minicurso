@@ -1,0 +1,4 @@
+minicurso
+=========
+
+Init git
